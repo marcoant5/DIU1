@@ -17,6 +17,7 @@ Logotipo:
 >>> ![Método UX](img/m_logoNormal.png)
 >>> ![Método UX](img/m_logonegro.png)
 >>> ![Método UX](img/m_logoblanco.png)
+>>> 
 >>> Hemos decidido mantener el mismo logo puesto que creemos que es llamativo, representativo del sitio y muy visual. Además desde el punto de vista del marketing creemos que es beneficioso mantener el logo de un tablao que se ha creado un nombre dentro del mundillo del arte flamenco.
 >>> Además, hemos decidido explotar la vía del actual logo. También lo utilizaremos de logos pero de forma más simple y sencilla, sin colores más allá del blanco y negro. Creemos que es una forma significativa de que las personas recuerden con facilidad nuestra seña de identidad. Cualquier cliente o posible cliente que vea el logo, siempre lo asociará a nuestro proyecto.
 Aparte, este tipo de logos en redes sociales (vía que pensamos aprovechar) tienen buena acogida entre el público, puesto que son minimalistas, claros y simples.
@@ -24,8 +25,9 @@ Aparte, este tipo de logos en redes sociales (vía que pensamos aprovechar) tien
 
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Marco Antonio Rodríguez Molina
+    :octocat:     
+ * :bust_in_silhouette:  Guillermo Romacho López     :octocat:
 
 ----- 
 

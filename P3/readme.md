@@ -10,6 +10,7 @@
 
 ## Landing Page
 
+>>> ![Método UX](../img/m_landingpage.png)
 
 ## Mockup: LAYOUT HI-FI
 

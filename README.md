@@ -14,9 +14,9 @@ En lugar de desechar todo el trabajo previo, nuestra idea es perfeccionar alguno
 El enfoque principal de este rediseño es mejorar la experiencia de usuario, por lo que nos hemos enfocado en aspectos como la navegación, la usabilidad, el diseño y la optimización para dispositivos móviles. En este sentido, estamos trabajando en una nueva estructura de contenidos que facilite la búsqueda de información relevante y en una interfaz más intuitiva que permita a los usuarios encontrar lo que necesitan de manera rápida y sencilla.
 
 Logotipo: 
->>> (img/m_logoNormal.png)
->>> (img/m_logonegro.png)
->>> (img/m_logoblanco.png)
+>>> ![Método UX](img/m_logoNormal.png)
+>>> ![Método UX](img/m_logonegro.png)
+>>> ![Método UX](img/m_logoblanco.png)
 >>> Hemos decidido mantener el mismo logo puesto que creemos que es llamativo, representativo del sitio y muy visual. Además desde el punto de vista del marketing creemos que es beneficioso mantener el logo de un tablao que se ha creado un nombre dentro del mundillo del arte flamenco.
 >>> Además, hemos decidido explotar la vía del actual logo. También lo utilizaremos de logos pero de forma más simple y sencilla, sin colores más allá del blanco y negro. Creemos que es una forma significativa de que las personas recuerden con facilidad nuestra seña de identidad. Cualquier cliente o posible cliente que vea el logo, siempre lo asociará a nuestro proyecto.
 Aparte, este tipo de logos en redes sociales (vía que pensamos aprovechar) tienen buena acogida entre el público, puesto que son minimalistas, claros y simples.

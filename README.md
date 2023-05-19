@@ -1,15 +1,17 @@
 # DIU23
-Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: Tablao Flamenco - La Arboleá ) 
 
-Grupo: DIU1_01AABB.  Curso: 2022/23 
-Updated: 11/1/2023
+Grupo: DIU1_01LosTardíos.  Curso: 2022/23 
+Updated: 19/05/2023
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> Rediseño de La Arboleá
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>>> Nos hemos propuesto llevar a cabo un rediseño de nuestra página web actual con el objetivo de mejorar su desempeño y lograr una mayor visibilidad entre nuestro público objetivo. Aunque nuestra web ya es reconocida en el sector, es cierto que presenta algunas limitaciones que creemos que podrían ser mejoradas sin tener que partir de cero.
+En lugar de desechar todo el trabajo previo, nuestra idea es perfeccionar algunos aspectos clave para potenciar aún más nuestra presencia en línea. De esta forma, nos aseguramos de mantener la esencia de nuestra marca y su carácter distintivo, mientras introducimos nuevas funcionalidades y elementos que la harán más atractiva y accesible para nuestros clientes.
+El enfoque principal de este rediseño es mejorar la experiencia de usuario, por lo que nos hemos enfocado en aspectos como la navegación, la usabilidad, el diseño y la optimización para dispositivos móviles. En este sentido, estamos trabajando en una nueva estructura de contenidos que facilite la búsqueda de información relevante y en una interfaz más intuitiva que permita a los usuarios encontrar lo que necesitan de manera rápida y sencilla.
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui

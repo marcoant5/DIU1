@@ -2,6 +2,11 @@
 
 ## Moodboard (diseño visual + logotipo)   
 
+>>> ![Método UX](img/m_moodboard.png)
+
+>>> ![Método UX](img/m_logoNormal.png)
+>>> ![Método UX](img/m_logonegro.png)
+>>> ![Método UX](img/m_logoblanco.png)
 
 ## Landing Page
 

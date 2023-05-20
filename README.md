@@ -32,18 +32,15 @@ Miembros
 ----- 
 
 
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
-
 # Proceso de Diseño 
 
 ## Paso 1. UX Desk Research & Analisis 
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
+![Método UX](img/m_compAnalisis.png) 
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+>>> Para hacer el análisis hemos tenido en cuenta otras dos webs similares, las cuales ofertan el mismo tipo de evento, así podríamos comparar de forma más exhaustiva. Al final, consideramos que la elegida debe ser La Alboreá, porque en el cómputo global es la que más destaca, además es la más accesible a cualquier usuario. 
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----

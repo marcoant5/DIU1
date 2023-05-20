@@ -68,20 +68,13 @@ Miembros
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
-
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
+![Método UX](img/m_EMmap.png) 
+![Método UX](img/m_feedback.png) 
+![Método UX](img/m_pov.png) 
     
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 >>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+>>> Nuestra estrategia de rediseño busca potenciar los puntos fuertes de nuestra página web actual, al mismo tiempo que corregimos aquellas áreas en las que podemos mejorar. Creemos que este enfoque nos permitirá seguir siendo una referencia en nuestro sector y llegar a un mayor número de clientes potenciales de manera efectiva.
 
 
 

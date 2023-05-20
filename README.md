@@ -72,8 +72,6 @@ Miembros
 ![Método UX](img/m_feedback.png) 
 ![Método UX](img/m_pov.png) 
     
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
 >>> Nuestra estrategia de rediseño busca potenciar los puntos fuertes de nuestra página web actual, al mismo tiempo que corregimos aquellas áreas en las que podemos mejorar. Creemos que este enfoque nos permitirá seguir siendo una referencia en nuestro sector y llegar a un mayor número de clientes potenciales de manera efectiva.
 
 
@@ -104,12 +102,15 @@ Miembros
 -----
 
 ![Método UX](img/principal.png)
+
 Boceto de la página principal
 
 ![Método UX](img/entradas.png)
+
 Boceto de la página entradas
 
 ![Método UX](img/historia.png)
+
 Boceto de la página historia
 
 

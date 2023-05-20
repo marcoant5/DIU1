@@ -44,8 +44,9 @@ Miembros
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
-
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+![Método UX](img/m_persona1.png)
+![Método UX](img/m_persona2.png)
+>>> Las personas elegidas, son potenciales usuarios de la web y de los eventos que se promocionan en la misma. Aunque también se ha intentado que sean lo más creíbles posibles para que pudiese ser la más semejante a una experiencia real. Por eso, hemos incluido un poco de contexto de cada persona además de algunos puntos (tanto positivos como negativos) que se salían del escenario pedido en la práctica. Por ejemplo, Ane le preocupa la política municipal y la caza animal, que poco tiene que ver con el evento y/o la web que abordamos, no obstante le da empaque.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----

@@ -80,13 +80,13 @@ Miembros
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+
+![Método UX](img/m_canvas.png) 
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
-
+![Método UX](img/m_task.png) 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----

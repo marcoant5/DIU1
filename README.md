@@ -103,7 +103,14 @@ Miembros
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+![Método UX](img/principal.png)
+Boceto de la página principal
+
+![Método UX](img/entradas.png)
+Boceto de la página entradas
+
+![Método UX](img/historia.png)
+Boceto de la página historia
 
 
 ## Paso 3. Mi UX-Case Study (diseño)

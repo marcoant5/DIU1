@@ -50,9 +50,10 @@ Miembros
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
+![Método UX](img/m_jmap1.png)
+![Método UX](img/m_jmap2.png)
 
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+>>> Las diferentes motivaciones de Ane y Cecilio para viajar influyen en la organización de su itinerario: Ane busca diversión y flexibilidad, mientras que Cecilio tiene un plan más estructurado y enfocado en cumplir su sueño. 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----

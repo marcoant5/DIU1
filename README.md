@@ -57,11 +57,10 @@ Miembros
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+
+>>> - Enlace al documento:  [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx)
+>>> - Valoración final (numérica): 69 (good)
+>>> - Comentario sobre la valoración: Es una web muy accesible y que se preocupa por el usuario, pero que tiene aspectos a mejorar de forma sencilla. Entiendo que si no lo hacen es por una mera cuestión estética y gusto personal, quizá no presente demasiada importancia, aunque a nosotros nos ha sorprendido.
 
 
 ## Paso 2. UX Design  

@@ -92,7 +92,11 @@ Miembros
 ----
 
 ![Método UX](img/m_label1.png) 
+
+
 ![Método UX](img/m_label2.png) 
+
+
 ![Método UX](img/m_label3.png) 
 
 

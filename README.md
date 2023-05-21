@@ -22,7 +22,18 @@ Logotipo:
 >>> Además, hemos decidido explotar la vía del actual logo. También lo utilizaremos de logos pero de forma más simple y sencilla, sin colores más allá del blanco y negro. Creemos que es una forma significativa de que las personas recuerden con facilidad nuestra seña de identidad. Cualquier cliente o posible cliente que vea el logo, siempre lo asociará a nuestro proyecto.
 Aparte, este tipo de logos en redes sociales (vía que pensamos aprovechar) tienen buena acogida entre el público, puesto que son minimalistas, claros y simples.
 
+Diseño: 
+>>> ![Método UX](img/m_principalC.png)
 
+Página principal
+
+>>> ![Método UX](img/m_entradasC.png)
+
+Página entradas
+
+>>> ![Método UX](img/m_historiaC.png)
+
+Página historia
 
 Miembros
  * :bust_in_silhouette:   Marco Antonio Rodríguez Molina

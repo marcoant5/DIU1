@@ -120,23 +120,33 @@ Boceto de la página historia
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
-
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+![Método UX](img/m_moodboard.png)
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-
->>> Plantear Landing Page 
+![Método UX](img/m_landingpage.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Teniendo en cuenta los patrones de diseño vistos en teoría nos hemos percatado de varias modificaciones que deberíamos llevar a cabo en nuestro proyecto con el fin de mejorar la experiencia del usuario.
+- Debemos incluir (en nuestro apartado dedicado a los artistas en la página principal) un scroll para que se tenga acceso directo a todos y cada uno de los artistas de los que se dispone.
+- Tarjetas: Un patrón utilizado para organizar y presentar información en un formato visualmente atractivo y fácil de escanear, ideal para mostrar productos, artículos o perfiles de usuarios.
+- Formulario de búsqueda: Un patrón que proporciona a los usuarios un campo de búsqueda para buscar contenido dentro del sitio web.
+- Poder filtrar comentarios de la página web.
+
+Además también:
+
+- Consistencia visual: Mantener una apariencia visual coherente en todo el sitio web, utilizando colores, tipografía y elementos visuales que reflejen la identidad de marca.
+- Diseño receptivo (responsive design): Asegurarse de que la web se adapte y funcione correctamente en diferentes dispositivos y tamaños de pantalla.
+- Usabilidad y accesibilidad: Seguir pautas de usabilidad y accesibilidad para garantizar que el sitio web sea fácil de usar y accesible para todos los usuarios, incluyendo aquellos con discapacidades.
+- Jerarquía visual: Utilizar técnicas de diseño, como el uso de tamaños de fuente, espaciado y contraste, para destacar la información más importante y guiar la atención del usuario.
+- Tiempos de carga rápidos: Optimizar el rendimiento del sitio web para que las páginas se carguen rápidamente y los usuarios no experimenten tiempos de espera largos.
+
+Que aunque bien es cierto que son elementos e ideas básicos, no está mal recalcar y hacer especial hincapié en tenerlo en cuenta.
+
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
@@ -147,10 +157,7 @@ Boceto de la página historia
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
-
+[![Vídeo demostración](img/m_miniatura.png)](img/caseStudy.png)
 
 ## Paso 4. Evaluación 
 

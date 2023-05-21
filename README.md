@@ -157,7 +157,7 @@ Que aunque bien es cierto que son elementos e ideas básicos, no está mal recal
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-[![Vídeo demostración](img/m_miniatura.png)](img/caseStudy.png)
+[![Vídeo demostración](img/m_miniatura.png)](img/m_casestudy.mp4)
 
 ## Paso 4. Evaluación 
 

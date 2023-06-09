@@ -175,10 +175,19 @@ Que aunque bien es cierto que son elementos e ideas básicos, no está mal recal
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
+Artesanía Nazarí (que se ha cambiado el nombre ahora a NazaLine). Quiere fomentar el sentimiento de comunidad por ello proponemos expandir ese concepto y solventar además un problema. Los usuarios normalmente quieren información acerca de los talleres, si les va a gustar, saber experiencias de otros usuarios etc. Quiere dar la posibilidad a los usuarios de expresar sus vivencias en los talleres, crearemos un entorno donde los usuarios puedan postear sus obras y opinar sobre los talleres y las artesanías que hagan. Además de crear grupos abiertos de talleres donde los usuarios de la comunidad puedan participar, conocerse y también abaratar el coste de los talleres.
 
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+Enlace al proyecto: https://github.com/DIU-Ahora-o-nunca/DIU
 
+![Método UX](img/m_otra.png)
+
+Podemos decir que el proyecto cumple con las expectativas puestas y los objetivos que se proponían. Aunque bien es cierto que tiene aspectos negativos:
+- Ser demasiado minimalista nos hace evadirnos del verdadero propósito que no es otro que conocer mejor la artesanía nazarí. Aunque en principio es un acierto el relacionarlo con el minimalismo, quizás en exceso nos hace desconectar del objetivo.
+- La paleta de colores es poco llamativa.
+- La tipografía no evoca nada la cultura nazarí.
+
+Pero es verdad que hemos tenido que ponernos muy exquisitos para encontrar algun detalle a mejorar, puesto que el trabajo es muy completo.
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----

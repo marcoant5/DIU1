@@ -190,27 +190,28 @@ Podemos decir que el proyecto cumple con las expectativas puestas y los objetivo
 Pero es verdad que hemos tenido que ponernos muy exquisitos para encontrar algun detalle a mejorar, puesto que el trabajo es muy completo.
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
-----
-
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
+---- 
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Paco  | H / 50   | Amo de casa  | Poca       | Introvertido | Telefono       | A 
+| Matilde | M / 30   | Desempleada  | Media       | Timida       | Mac        | A 
+| Ismael  | H / 22   | Estudiante     | Avanzada        | Despistado    | Linux      | B 
+| Marina  | M / 40   | Oficinista  | Media       | Alocada     | Windows        | B 
 
+![Método UX](img/m_taskotro.png)
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+![Método UX](img/m_sus.png)
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+La idea de diseñar un producto “típico” de toda la vida envuelto en un halo de
+minimalismo es buena. Sin embargo, hay puntos que se pueden mejorar y potenciar
+como la tipografía.
+Como funcionalidad y demás, poco hay que objetar, está muy trabajado y se nota el
+esfuerzo y el trabajo que hay detrás.
+La interfaz un poco escueta, pero acorde al diseño que se ha propuesto eso sí. Se podría incluir algo más de información relevante y/o atractiva y atrayente al usuario en la página de inicio.
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report

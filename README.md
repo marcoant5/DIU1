@@ -217,7 +217,7 @@ La interfaz un poco escueta, pero acorde al diseño que se ha propuesto eso sí.
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
-Aquí está el enlace: img/m_use.pdf
+Aquí está el enlace: [![enlace](img/m_use.pdf)
 
 La idea de diseñar un producto “típico” de toda la vida envuelto en un halo de minimalismo es buena. Sin embargo, hay puntos que se pueden mejorar y potenciar como la tipografía.
 Como funcionalidad y demás, poco hay que objetar, está muy trabajado y se nota el esfuerzo y el trabajo que hay detrás.

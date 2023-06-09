@@ -217,11 +217,17 @@ La interfaz un poco escueta, pero acorde al diseño que se ha propuesto eso sí.
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+Aquí está el enlace: img/m_use.pdf
 
+La idea de diseñar un producto “típico” de toda la vida envuelto en un halo de minimalismo es buena. Sin embargo, hay puntos que se pueden mejorar y potenciar como la tipografía.
+Como funcionalidad y demás, poco hay que objetar, está muy trabajado y se nota el esfuerzo y el trabajo que hay detrás.
+La interfaz un poco escueta, pero acorde al diseño que se ha propuesto eso sí. Se podría incluir algo más de información relevante y/o atractiva y atrayente al usuario en la página de inicio.
 
-
->>> Valoración personal 
+Recomendaciones:
+- Utilizar una paleta de colores algo más representativa y atractiva.
+- Usar una tipografía identificativa del tema a tratar.
+- Potenciar de forma meditada el carácter minimalista de la web. Alejarse del minimalismo más radical y hacer un híbrido para acercar a usuarios pero sin perder la esencia a tratar.
+- Incluir más información relevante en el inicio.
 
 
 >>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
